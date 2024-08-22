@@ -1,6 +1,6 @@
 # Hi there, I'm Dinesh! 👋
 
-I'm a **2nd year Computer Engineering student** at Rajalakshmi Engineering College. 
+I'm a **3rd year Computer Engineering student** at Rajalakshmi Engineering College. 
 
 ## 🚀 About Me
 - 🌱 **Learning:** Machine Learning, Image Processing
