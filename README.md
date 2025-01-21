@@ -1,6 +1,3 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dhaya9687&label=Profile%20views&color=0e75b6&style=flat" alt="dhaya9687" style="border-radius: 10px;" />
-</p>
 # Hi there, I'm Dinesh! 👋
 
 I'm a **3rd year Information Technology student** at Rajalakshmi Engineering College. 
