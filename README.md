@@ -4,16 +4,19 @@ I'm a **3rd year Information Technology student** at Rajalakshmi Engineering Col
 
 ## 🚀 About Me
 - 🌱 **Learning:** Machine Learning, Image Processing
-- 💻 **Skills:** C, C++, Python, Java, HTML, CSS
-- 📚 **Exploring:** Virtual try-on using image processing
+- 💻 **Skilled In:** HTML, CSS, React (Advanced)
+- 🛠️ **Also Comfortable With:** C, C++, Python, Java
+- 📚 **Exploring:** Virtual Try-On using Image Processing
 
 ## 🛠️ Languages and Tools:
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dineshnanda16&show_icons=true&theme=radical)
@@ -22,4 +25,4 @@ I'm a **3rd year Information Technology student** at Rajalakshmi Engineering Col
 
 ## 🌐 Connect with Me
 - **LinkedIn:** [Dinesh Nanda](https://www.linkedin.com/in/dinesh-nanda-/)
-- **Portfolio:**[dineshnanda.me](https://dineshnanda.me/)
+- **Portfolio:** [dineshnanda.me](https://dineshnanda.me/)
