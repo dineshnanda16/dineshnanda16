@@ -4,7 +4,7 @@ I'm a **3rd year Information Technology student** at Rajalakshmi Engineering Col
 
 ## 🚀 About Me
 - 🌱 **Learning:** Machine Learning, Image Processing
-- 💻 **Skilled In:** HTML, CSS, React (Advanced), Node.js, Express.js, Firebase
+- 💻 **Skilled In:** HTML, CSS, React, Node.js, Express.js, Firebase
 - 🛠️ **Also Comfortable With:** MongoDB, PostgreSQL, MySQL, C, C++, Python, Java
 - 📚 **Exploring:** Virtual Try-On using Image Processing
 
